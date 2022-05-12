@@ -1,7 +1,7 @@
 /*
 Write a code which deals with specific unchecked exceptions specifically.
-For eg- If Arithmetic Exceptions occurs print an instruction.
-        If ArrayIndexOutOfBoundsException  occurs print different instruction ,etc
+For eg-  If Arithmetic Exceptions occurs print an instruction.
+         If ArrayIndexOutOfBoundsException  occurs print different instruction ,etc
 */
 
 package com.company;
