@@ -19,7 +19,7 @@ public class Zeek_Ch05_PractiseSet1 {
 		}
 		System.out.printf("Sum(Starting from 0) of first %d  even integers is: ",n);
 		System.out.println(sum);
-	}
+	 }
 }
 
 
