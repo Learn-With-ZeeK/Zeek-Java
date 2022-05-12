@@ -38,4 +38,4 @@ public class Zeek_48_MethodOverriding {
 		ClassY y= new ClassY();
 		y.method2();
 	}
-}
+ }
