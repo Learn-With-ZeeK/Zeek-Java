@@ -2,9 +2,9 @@
  Creating your own Java class(Custom class)
  There can be only one public class(If public not written default class executed)
  In this program we created 
- ....Custom class (Employee)
- ....(id and name) are attributes
- ....printDetails() is a method
+  ....Custom class (Employee)
+  ....(id and name) are attributes
+  ....printDetails() is a method
 */
 
 package com.company;
