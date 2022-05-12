@@ -41,7 +41,7 @@ public class Zeek_04_Literals {
     	System.out.println(floatVal);
     	System.out.println(cost);  
     	  
-    	System.out.println("\t" +"backslash literal");  
+    	 System.out.println("\t" +"backslash literal");  
     	  
 }
 }
