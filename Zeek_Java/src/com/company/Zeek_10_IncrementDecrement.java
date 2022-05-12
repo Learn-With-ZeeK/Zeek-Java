@@ -26,7 +26,7 @@ public class Zeek_10_IncrementDecrement {
 		
 		char ch='x';
 		System.out.println("The value of ch is:  "+ ch); 
-		System.out.println("The value of ++ch is:  "+  ++ch);//Will print incremented value of ch{i.e(y)}
+		System.out.println("The value of ++ch is:  "+  ++ch); //Will print incremented value of ch{i.e(y)}
 	}
 
 }
