@@ -1,5 +1,5 @@
 /*
---> An ArrayDeque (also known as an “Array Double Ended Queue”, pronounced as “ArrayDeck”)
+--> An ArrayDeque (also known as an â€œArray Double Ended Queueâ€, pronounced as â€œArrayDeckâ€)
 --> ArrayDeque is a special kind of a growable array that allows us to 
     add or remove an element from both sides.
 
@@ -43,5 +43,5 @@ public class Zeek_93_ArrayDeque {
 		System.out.println("Last element of array is: "+a1.peekLast());
 		
 	}
-
+ 
 }
