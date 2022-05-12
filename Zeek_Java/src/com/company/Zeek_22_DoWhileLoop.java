@@ -12,4 +12,4 @@ public static void main(String[] args) {
 		System.out.println("do While will print only first value when while condition is false i.e"
 				+ "  print 10 even though 10 is not less than 5");
 	}
-}
+ }
