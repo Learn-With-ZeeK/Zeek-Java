@@ -67,4 +67,4 @@ public class Zeek_45_Inheritance {
 		d.setY(10);
 		System.out.println(d.getY());
 	}
-}
+ }
