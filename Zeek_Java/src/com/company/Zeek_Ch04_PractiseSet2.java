@@ -1,9 +1,9 @@
 //Income Tax Slab per year	       ,New Regime Income Tax Slab Rates FY 2020-21
-//Rs 0.0 – Rs 2.5 Lakhs	           ,Tax-    NIL
+//Rs 0.0 â€“ Rs 2.5 Lakhs	           ,Tax-    NIL
 //Rs 2.5 lakhs- Rs 5.00 Lakhs      ,Tax-	5% 
 //Rs. 5.00 lakhs- Rs 7.5 Lakhs     ,Tax -	10%
-//Rs 7.5 lakhs – Rs 10.00 Lakhs	   ,Tax-    15%
-//Rs 10.00 lakhs – Rs. 12.50 Lakhs ,Tax-	20%
+//Rs 7.5 lakhs â€“ Rs 10.00 Lakhs	   ,Tax-        15%
+//Rs 10.00 lakhs â€“ Rs. 12.50 Lakhs ,Tax-	20%
 //Rs. 12.5 lakhs- Rs. 15.00 Lakhs  ,Tax-	25%
 //> Rs. 15 Lakhs                   ,Tax-	30%
 
