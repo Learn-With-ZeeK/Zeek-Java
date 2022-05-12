@@ -1,6 +1,6 @@
-//Calculate Board percentage using user user input for 5 subjects...
+ //Calculate Board percentage using user user input for 5 subjects...
 
-//Use float or double because percentage can be in decimals
+ //Use float or double because percentage can be in decimals
 package com.company;
 
 import java.util.Scanner;
