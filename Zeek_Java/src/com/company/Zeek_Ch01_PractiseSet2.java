@@ -18,7 +18,7 @@ public class Zeek_Ch01_PractiseSet2 {
 		}
 		else{
 			System.out.println("Your number is not an integer");	
-		}
+		} 
 		
 	}
 
