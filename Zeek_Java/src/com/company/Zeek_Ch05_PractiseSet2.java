@@ -1,4 +1,4 @@
-//Print Multiplication table of number.Get number from user. 
+//Print Multiplication table of number. Get number from user. 
 
 package com.company;
 
