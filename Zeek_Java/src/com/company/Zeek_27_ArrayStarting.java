@@ -1,5 +1,5 @@
-//Create an array and Use for loop to display in forward and reverse order
-//Create an array and Use for each loop to display in forward order
+// Create an array and Use for loop to display in forward and reverse order
+// Create an array and Use for each loop to display in forward order
 
 package com.company;
 
