@@ -20,6 +20,6 @@ public class Zeek_Ch02_PractiseSet2 {
 		float a= (v*v-u*u)/(2*s);
 		 
 		System.out.println("The value of uniform acceleration is:   "+ a +" m/s^2");
-   }
+    }
  }
 
