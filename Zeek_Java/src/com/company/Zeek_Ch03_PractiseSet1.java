@@ -12,5 +12,5 @@ public class Zeek_Ch03_PractiseSet1 {
 		String str1= str.replace(" ", "_");
 		
 		System.out.println(str1);
-	}
+	}  
 }
