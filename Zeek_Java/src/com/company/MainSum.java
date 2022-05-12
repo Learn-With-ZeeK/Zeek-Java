@@ -16,7 +16,7 @@ public class MainSum {
 //A variable is a container which holds the value while the Java program is executed
 
 
-//Data types specify the different sizes and values that can be stored in the variable. There are two types of data types in Java:
+//Data types specify  the different sizes and values that can be stored in the variable. There are two types of data types in Java:
 
 //Primitive data types: The primitive data types include boolean, char, byte, short, int, long, float and double.
 //Non-primitive data types: The non-primitive data types include Classes, Interfaces, and Arrays
