@@ -30,7 +30,7 @@ class Cuboid extends Rectangle{
 		System.out.println("The parameters of cuboid are initialised here");	
 	}
 	
-	public int totalSurfaceArea() {
+	 public int totalSurfaceArea() {
 		int t= 2*(this.length*this.width + this.width*this.height + this.height*this.length );
 		return t;
 	}
