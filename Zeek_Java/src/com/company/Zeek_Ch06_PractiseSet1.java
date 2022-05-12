@@ -12,7 +12,7 @@ public class Zeek_Ch06_PractiseSet1 {
 			sum=sum+element;	
 		};
 		
-			System.out.println("The sum of array is  "+sum);
+		System.out.println("The sum of array is  "+sum);
 		
 	}
 }
