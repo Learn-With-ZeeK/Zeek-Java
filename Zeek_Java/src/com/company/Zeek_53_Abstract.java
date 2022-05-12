@@ -32,7 +32,7 @@ abstract class Parent{
 
 
 class firstChild extends Parent {
-	//If you do not override greet() and greet2() then firstChild class becomes abstract. 
+	 //If you do not override greet() and greet2() then firstChild class becomes abstract. 
 	
 	public  void greet() {
 		 System.out.println("Good Morning");
