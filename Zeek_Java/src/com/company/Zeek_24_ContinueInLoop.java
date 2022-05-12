@@ -16,4 +16,4 @@ public static void main(String[] args) {
 	}
 
 }
-//when 22 is printed the value of i is 23 then continue statement comes and "Java is best" String is ignore
+ //when 22 is printed the value of i is 23 then continue statement comes and "Java is best" String is ignore
