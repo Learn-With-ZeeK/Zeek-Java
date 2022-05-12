@@ -1,4 +1,4 @@
-//Use for loop and updating data to find factorial of a number.
+// Use for loop and updating data to find factorial of a number.
 
 package com.company;
 
