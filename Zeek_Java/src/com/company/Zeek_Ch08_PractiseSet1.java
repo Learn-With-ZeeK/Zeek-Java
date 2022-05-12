@@ -42,5 +42,5 @@ public class Zeek_Ch08_PractiseSet1 {
 		System.out.println(Zeeshan.getSalary());
 		System.out.println(Zeeshan.getName());
 		
-	}
+	 }
 }
