@@ -36,7 +36,7 @@ public class AdvanceJava_AnonymousClass_LambdaExpression {
 	w.walking(2);	
 		  
 		
-	//Using Anonymous Class WITH lambda expression 	
+	 //Using Anonymous Class WITH lambda expression 	
 	Run r1 = (a)->{System.out.println("You are running at: "+a+" m/s");};
 	
 	 r1.speed(13);
