@@ -1,8 +1,10 @@
-/*The varrags(VariableArguments) allows the method to accept zero or multiple arguments
-If we don't know how many argument we will have to pass in the method.*/
+/*
+The varrags(VariableArguments) allows the method to accept zero or multiple arguments
+If we don't know how many argument we will have to pass in the method.
 
-/*Create a method that can 
-Take sum of any no of integer using array and for each loop(VariableArguments)*/
+Create a method that can 
+Take sum of any no of integer using array and for each loop(VariableArguments)
+*/
 
 
 package com.company;
