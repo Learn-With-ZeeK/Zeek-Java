@@ -27,7 +27,7 @@ class Humans extends Monkey implements BasicAnimals{
 		System.out.println("This method is eat from interface BasicAnimals");
 	}
 	public void sleep() {
-		System.out.println("This method is sleep from interface BasicAnimals");
+		 System.out.println("This method is sleep from interface BasicAnimals");
 	}
 } 
 
