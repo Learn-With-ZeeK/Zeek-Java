@@ -27,7 +27,7 @@ public class Main {
 
 -> class- keyword to declare class in Java.
 
--> public- access modifier represents visibility. i.e- Visible to all.
+->  public- access modifier represents visibility. i.e- Visible to all.
 
 -> static- Core advantage no need to create object to invoke static method.
 
