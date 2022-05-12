@@ -1,5 +1,5 @@
 //Like there is BODMAS in mathematics calculation In Java there is precedence and 
-//associativity concept for calculation.
+//Associativity concept for calculation.
 
 package com.company;
 
