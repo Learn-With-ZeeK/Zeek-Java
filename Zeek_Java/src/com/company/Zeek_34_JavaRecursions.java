@@ -1,6 +1,8 @@
-/*Recursion in java is a process in which a method calls itself continuously till the end.
+/*
+Recursion in java is a process in which a method calls itself continuously till the end.
   A method in java that calls itself is called recursive method
-  for example- return n* factorial(n-1); */
+  for example- return n* factorial(n-1); 
+  */
 
 package com.company;
 
