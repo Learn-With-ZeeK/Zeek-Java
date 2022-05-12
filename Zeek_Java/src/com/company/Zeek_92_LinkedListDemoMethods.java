@@ -31,7 +31,7 @@ So,
  
  Some of the methods and work of LinkedList that are not in ArrayList are  -->
  
- l1.addFirst(234) --->  Means inserting element 234 at index 0 or first position.
+ l1.addFirst(234) --->  Means inserting element 234 at index 0 or first position .
 
  l1.addLast(786) --->  Means inserting element 786 at end of linked list
  * */
