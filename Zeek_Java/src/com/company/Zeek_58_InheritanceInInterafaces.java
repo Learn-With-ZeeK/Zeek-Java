@@ -68,4 +68,4 @@ public class Zeek_58_InheritanceInInterafaces {
 		g.meth4();
 
 	}
-}
+ }
