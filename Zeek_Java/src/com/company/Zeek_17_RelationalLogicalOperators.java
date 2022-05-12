@@ -44,4 +44,4 @@ public class Zeek_17_RelationalLogicalOperators {
 //(e>32|h>32) should be true
 //(e>32|h>32) will be true if any one of the two conditions are true
 
-//   Code for Multiple Conditions,&&-AND gate,| -OR gate,!-NOT gate,
+//   Code for Multiple Conditions, &&-AND gate,| -OR gate,!-NOT gate,
