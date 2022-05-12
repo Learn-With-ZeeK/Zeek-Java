@@ -1,11 +1,11 @@
 /*
       Thread Methods:
---> start() – Starts the thread.
---> getState() – It returns the state of the thread.
---> getName() – It returns the name of the thread.
---> getPriority() – It returns the priority of the thread.
---> sleep() – Stop the thread for the specified time.
---> Join() – Stop the current thread until the called thread gets terminated.
+--> start() â€“ Starts the thread.
+--> getState() â€“ It returns the state of the thread.
+--> getName() â€“ It returns the name of the thread.
+--> getPriority() â€“ It returns the priority of the thread.
+--> sleep() â€“ Stop the thread for the specified time.
+--> Join() â€“ Stop the current thread until the called thread gets terminated.
 
 Work we can do on threads are Thread Methods.
 
@@ -55,5 +55,5 @@ public class Zeek_75_ThreadMethods {
 		}
 		
 		t2.start();
-	}
+	 }
 }
