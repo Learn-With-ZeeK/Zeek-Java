@@ -57,7 +57,7 @@ public class Zeek_Ch07_PractiseSet1 {
 		multiplication(3);
 		pattern(4);
 		pattern1(4);
-	    int c=	sumNatural(3);
+	     int c=	sumNatural(3);
 	     System.out.print(c);
 	}
 
