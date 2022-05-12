@@ -27,6 +27,6 @@ public class Zeek_05_UserInput {
 			
 		}
 	}
-//Importing scanner class by import java.util.Scanner;
+ //Importing scanner class by import java.util.Scanner;
 //System.in means read from keybord i.e take input from user
 // nextInt to input and assign integer value 
