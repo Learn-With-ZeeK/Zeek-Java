@@ -15,5 +15,5 @@ public class Zeek_Ch02_PractiseSet1 {
 	   
 	   System.out.println(a>18);//18 is user defined number
 	   
-	}
+	} 
 }
