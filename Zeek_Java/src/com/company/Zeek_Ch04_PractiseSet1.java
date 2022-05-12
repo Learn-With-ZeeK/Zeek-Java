@@ -1,4 +1,4 @@
-//Write a code which satisfies centain conditions
+//Write a code which satisfies certain conditions
 //3 subjects(Physics,Chemistry,Maths) each subject maximum marks 100
 //For passing- Each subject marks atleast 33% and overall atleast 40%
 
