@@ -47,7 +47,7 @@ public class Zeek_73_ThreadConstructors {
 		System.out.println("Name of thread 1 is "+  t1.getName());
 		System.out.println("Name of thread 2 is "+  t2.getName());
 		System.out.println("Name of thread 3 is "+  t3.getName());
-		
-	}
+	 	
+	  }
 
 }
