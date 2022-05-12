@@ -32,7 +32,7 @@ public class Zeek_20_GenerateRandomNo {
 				  case 0:
 				     {System.out.println("Computer has chosen rock");}
 				     break;
-				  case 1:
+				   case 1:
 				     {System.out.println("Computer has chosen paper");}
 				     break;
 				  case 2:
